@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-08-16T8:00:00+4:30
+date: 2021-01-04T0:00:03-3:00
 title: "Busca em Memória Principal"
 tldr: 
 thumbnail: /static_files/presentations/busca-binaria.png

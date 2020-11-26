@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-08-16T8:00:00+4:30
+date: 2021-02-01T0:00:03-3:00
 title: "Filas"
 tldr: 
 thumbnail: /static_files/presentations/filas.jpg

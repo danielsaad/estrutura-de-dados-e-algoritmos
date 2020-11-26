@@ -1,6 +1,6 @@
 ---
 type: lecture
-date: 2018-08-16T8:00:00+4:30
+date: 2020-12-14T0:00:03-3:00
 title: "Ordenação - Mergesort"
 tldr: 
 thumbnail: /static_files/presentations/ordenacao-mergesort.png

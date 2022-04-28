@@ -2,8 +2,8 @@
 layout: home
 ---
 
-Registre-se na [sala de aula virtual da disciplina](https://classroom.google.com/c/MjMyNTc1NTY5OTg1?cjc=ae7i2fu) para receber as notificações.
+Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/course/view.php?id=10700) para receber as notificações. A chave de autoinscrição é **eda20221**.
 
-**Atendimento discente**: segundas-feiras das 14h às 16h. Agendamento através do [Calendly](https://calendly.com/daniel-saad/atendimento-discente)
+Clique [aqui](https://discord.gg/g4k7ymunh6) para acessar o Discord da disciplina.
 
-**Encontros síncronos**: segundas-feiras, das 09h às 12h, através do [Google Meet](https://meet.google.com/rda-cdhp-pgn) de acordo com as atividades previstas no plano de ensino.
+**Atendimento discente**: terças-feiras das 14h às 16h.

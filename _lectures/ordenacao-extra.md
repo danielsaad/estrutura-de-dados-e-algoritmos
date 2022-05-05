@@ -6,7 +6,7 @@ tldr:
 thumbnail: /static_files/presentations/ordenacao-extra.jpeg
 ---
 
-**Leituras Recomendas:**
+**Leituras Recomendadas:**
 - [Visualização de Algoritmos de Ordenação](https://visualgo.net/en/sorting)
 - [Sonorização de Algoritmos de Ordenação](https://www.youtube.com/watch?v=kPRA0W1kECg) 
 - [Ordenação e análise assintótica - Computerphile](https://www.youtube.com/watch?v=kgBjXUE_Nwc)

@@ -2,8 +2,8 @@
 layout: home
 ---
 
-Registre-se na [sala de aula virtual da disciplina](https://nead.ifb.edu.br/course/view.php?id=10700) para receber as notificações. A chave de autoinscrição é **eda20221**.
+Página da disciplina de Estrutura de Dados e Algoritmos do curso superior de Bacharelado em Ciência da Computação do IFB, campus Taguatinga.
 
-Clique [aqui](https://discord.gg/g4k7ymunh6) para acessar o Discord da disciplina.
+Registre-se na [sala de aula virtual da disciplina](https://classroom.google.com/c/NTQzNzg0MDEyNzQy?cjc=v2skobk).
 
-**Atendimento discente**: terças-feiras das 14h às 16h.
+[Atendimento Discente](https://danielsaad.com/contato).

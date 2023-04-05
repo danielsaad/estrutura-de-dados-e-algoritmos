@@ -5,6 +5,6 @@ title: Ordenação
 tldr: 
 thumbnail: /static_files/presentations/ordenacao-introducao.jpg
 links: 
-    - url: /assets/listas-de-exercicios/ordenacao.pdf
-      name: pdf
+    - url: https://codeforces.com/group/bUjcfYCUyC/contests
+      name: juíz
 ---

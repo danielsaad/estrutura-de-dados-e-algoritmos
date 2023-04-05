@@ -5,6 +5,6 @@ title: Pilhas
 tldr: 
 thumbnail: /static_files/presentations/pilhas.png
 links: 
-    - url: /assets/listas-de-exercicios/pilhas.pdf
-      name: pdf
+    - url: https://codeforces.com/group/bUjcfYCUyC/contests
+      name: juíz
 ---

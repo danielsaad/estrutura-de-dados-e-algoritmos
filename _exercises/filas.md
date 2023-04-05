@@ -5,6 +5,6 @@ title: Filas
 tldr: 
 thumbnail: /static_files/presentations/filas.jpg
 links: 
-    - url: /assets/listas-de-exercicios/filas.pdf
-      name: pdf
+    - url: https://codeforces.com/group/bUjcfYCUyC/contests
+      name: juíz
 ---

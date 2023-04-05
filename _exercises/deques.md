@@ -5,6 +5,6 @@ title: Deques
 tldr: 
 thumbnail: /static_files/presentations/deques.png
 links: 
-    - url: /assets/listas-de-exercicios/deques.pdf
-      name: pdf
+    - url: https://codeforces.com/group/bUjcfYCUyC/contests
+      name: juíz
 ---

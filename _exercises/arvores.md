@@ -5,6 +5,6 @@ title: Árvores
 tldr: 
 thumbnail: /static_files/presentations/arvores-introducao.jpg
 links: 
-    - url: /assets/listas-de-exercicios/arvores.pdf
-      name: pdf
+    - url: https://codeforces.com/group/bUjcfYCUyC/contests
+      name: juíz
 ---

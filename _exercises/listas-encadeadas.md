@@ -6,5 +6,5 @@ tldr:
 thumbnail: /static_files/presentations/listas.png
 links: 
     - url: https://codeforces.com/group/bUjcfYCUyC/contests
-      name: juíz
+      name: juiz
 ---

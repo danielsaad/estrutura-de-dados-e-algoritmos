@@ -7,6 +7,6 @@ thumbnail: /static_files/presentations/ordenacao-introducao.jpg
 links: 
     - url: https://codeforces.com/group/bUjcfYCUyC/contests
       name: juiz
-    - url: /assets/listas-de-exercicios/contest-busca-binaria
+    - url: /assets/listas-de-exercicios/contest-busca-binaria.pdf
       name: caderno de problemas
 ---

@@ -1,7 +1,7 @@
 ---
 type: exercises
 date: 2020-02-22T8:00:02-3:00
-title: Ordenação
+title: Busca Binárias
 tldr: 
 thumbnail: /static_files/presentations/ordenacao-introducao.jpg
 links: 

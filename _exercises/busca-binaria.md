@@ -1,9 +1,9 @@
 ---
 type: exercises
 date: 2020-02-22T8:00:02-3:00
-title: Busca Binárias
+title: Busca Binária
 tldr: 
-thumbnail: /static_files/presentations/ordenacao-introducao.jpg
+thumbnail: /static_files/presentations/busca-binaria.png
 links: 
     - url: https://codeforces.com/group/bUjcfYCUyC/contests
       name: juiz

@@ -41,6 +41,8 @@ collections:
         output: true
     assignments:
         output: true
+    exams:
+        output: true
     announcements:
         output: false
 

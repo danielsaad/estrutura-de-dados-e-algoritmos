@@ -15,8 +15,8 @@ items:
   name: Exercícios
   icon_class: fas fa-book-reader
 
-- url: /assignments/
-  name: Projetos
+- url: /exams/
+  name: Provas
   icon_class: fas fa-user-graduate
 
 - url: /materials/

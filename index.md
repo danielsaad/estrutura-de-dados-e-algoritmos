@@ -3,6 +3,5 @@ layout: home
 ---
 
 
-Registre-se na [sala de aula virtual da disciplina](https://classroom.google.com/c/NTQzNzg0MDEyNzQy?cjc=v2skobk).
-
-[Atendimento Discente](https://danielsaad.com/contato).
+- [Google Classroom](https://classroom.google.com/c/NTg5MjUzODc0NTkx?cjc=gusskdk)
+- [Atendimento](https://danielsaad.com/contato)

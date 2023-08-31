@@ -3,7 +3,7 @@ items:
   name: Home
   icon_class: fa fa-home fa-lg
 
-- url: /schedule/
+- url: /assets/planejamento/plano-de-ensino.pdf
   name: Planejamento
   icon_class: fas fa-calendar-alt
 

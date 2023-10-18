@@ -7,4 +7,7 @@ thumbnail: /static_files/presentations/filas.jpg
 links: 
     - url: https://codeforces.com/group/bUjcfYCUyC/contests
       name: juiz
+    - url: /assets/listas-de-exercicios/contest-filas.pdf
+      name: caderno de problemas
+
 ---

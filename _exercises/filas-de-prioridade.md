@@ -7,4 +7,6 @@ thumbnail: /static_files/presentations/filas-de-prioridade.png
 links: 
     - url: https://codeforces.com/group/bUjcfYCUyC/contests
       name: juiz
+    - url: /assets/listas-de-exercicios/tutoriais/filas-de-prioridade/filas-de-prioridade.pdf
+      name: comentários
 ---

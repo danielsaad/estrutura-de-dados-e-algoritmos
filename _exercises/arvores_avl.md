@@ -1,7 +1,7 @@
 ---
 type: exercises
 date: 2020-02-22T8:00:09-3:00
-title: Árvores
+title: Árvores AVL
 tldr: 
 thumbnail: /static_files/presentations/arvores-avl.png
 links: 

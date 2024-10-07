@@ -9,6 +9,23 @@
 
 ## Aulas
 
+- [Ponteiros]
+- [Vetores dinâmicos]
+- [Ordenação: Bubblesort]
+- [Ordenação: Insertionsort]
+- [Ordenação: Mergesort]
+- [Ordenação: Quicksort]
+- [Ordenação: Heapsort]
+- [Busca Binária]
+- [Listas]
+- [Filas]
+- [Pilhas]
+- [Filas de Prioridade]
+- [Árvores]
+- [Árvores Binárias de Pesquisa]
+- [Árvores AVL]
+- [Hashing]
+
 ## Listas de exercícios
 
 ## Materiais

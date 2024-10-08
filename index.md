@@ -5,10 +5,11 @@
 - [Contato](https://danielsaad.com/contato)
 - [Solicite sua inscrição no moodle](https://docs.google.com/forms/d/e/1FAIpQLSehAhukn6G4xkbARr1QQCcMjfbJ-Mt2Z_nTvcdkY9w4c5G9aw/viewform?usp=sf_link)
 
-## [Plano de ensino](/assets/planejamento/plano-de-ensino.pdf)
+## [Plano de ensino](assets/planejamento/plano-de-ensino.pdf)
 
 ## Aulas
 
+- [Introdução](assets/aulas/introducao.pdf)
 - [Ponteiros](assets/aulas/ponteiros.pdf)
 - [Vetores dinâmicos](assets/aulas/vetores-dinamicos.pdf)
 - [Ordenação: Bubblesort](assets/aulas/ordenacao-bubblesort.pdf)
@@ -30,4 +31,5 @@
 
 ## Materiais
 
+- [Minha biblioteca IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
 ## [Notas]()

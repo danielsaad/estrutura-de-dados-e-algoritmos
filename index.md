@@ -12,6 +12,7 @@
 - [Introdução](assets/aulas/introducao.pdf)
 - [Ponteiros](assets/aulas/ponteiros.pdf)
 - [Vetores dinâmicos](assets/aulas/vetores-dinamicos.pdf)
+- [Ordenação: Introdução](assets/aulas/ordenacao-introducao.pdf)
 - [Ordenação: Bubblesort](assets/aulas/ordenacao-bubblesort.pdf)
 - [Ordenação: Insertionsort](assets/aulas/ordenacao-insertionsort.pdf)
 - [Ordenação: Mergesort](assets/aulas/ordenacao-mergesort.pdf)

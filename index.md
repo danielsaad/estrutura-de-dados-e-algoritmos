@@ -35,4 +35,6 @@
 ## Materiais
 
 - [Minha biblioteca IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
+- [Repositório com os códigos da disciplina](https://github.com/danielsaad/EDA-IFB-CC)
+
 ## [Notas]()

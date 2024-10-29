@@ -31,6 +31,8 @@
 ## Listas de exercícios
 
 - [Ponteiros](assets/listas-de-exercicios/ponteiros.pdf)
+- [Ordenação](https://moj.naquadah.com.br/cgi-bin/index.sh)
+- [Busca](https://moj.naquadah.com.br/cgi-bin/index.sh)
 
 ## Materiais
 

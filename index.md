@@ -37,7 +37,7 @@
 ## Materiais
 
 - [Maratona Linux 🔥](https://nutellaboot.naquadah.com.br/disk-extra/maratonalinux-bootdisk-tete2204.raw.gz)
-- [Utilizando o Maratona Linux](assets/utilizacao-maratona-linux.html)
+- [Utilizando o Maratona Linux](assets/utilizacao-maratona-linux.md)
 - [Minha biblioteca IFB](https://www.ifb.edu.br/espaco-do-estudante/noticias/29605-minha-biblioteca-possibilita-acesso-a-acervos-digitais-para-comunidade-do-ifb)
 - [Repositório com os códigos da disciplina](https://github.com/danielsaad/EDA-IFB-CC)
 

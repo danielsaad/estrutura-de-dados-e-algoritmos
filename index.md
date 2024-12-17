@@ -31,8 +31,12 @@
 ## Listas de exercícios
 
 - [Ponteiros](assets/listas-de-exercicios/ponteiros.pdf)
-- [Ordenação](https://moj.naquadah.com.br/cgi-bin/index.sh)
-- [Busca](https://moj.naquadah.com.br/cgi-bin/index.sh)
+- [Ordenação](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2024_2_eda_busca_binaria)
+- [Busca](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_2024_2_eda_busca_binaria)
+- [Listas](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_eda_2024_2_listas)
+- [Pilhas](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_eda_2024_2_pilhas)
+- [Filas](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_eda_2024_2_filas)
+- [Filas de Prioridade](https://moj.naquadah.com.br/cgi-bin/contest.sh/saad_eda_2024_2_filas)
 
 ## Materiais
 

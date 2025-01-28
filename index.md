@@ -25,7 +25,7 @@
 - [Filas de Prioridade](assets/aulas/filas-de-prioridade.pdf)
 - [Árvores](assets/aulas/arvores-introducao.pdf)
 - [Árvores Binárias de Pesquisa](assets/aulas/arvores-bst.pdf)
-- [Árvores AVL](assets/aulas/arvores-bst.pdf)
+- [Árvores AVL](assets/aulas/arvores-avl.pdf)
 - [Hashing](assets/aulas/hashing.pdf)
 
 ## Listas de exercícios
